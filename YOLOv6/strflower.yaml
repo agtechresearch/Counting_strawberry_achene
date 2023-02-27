@@ -1,0 +1,7 @@
+train: ../data/flowerdata/images/train
+val: ../data/flowerdata/images/test
+test: ../data/flowerdata/images/val
+
+nc: 1
+names:
+  0: flower
